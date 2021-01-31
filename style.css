@@ -1,0 +1,118 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    color: whitesmoke;
+}
+body{
+    background-color: #12263A;
+}
+li{
+    display: inline;
+    margin-left: 20px;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 3px;
+}
+a:hover{
+    border-bottom: 3px solid whitesmoke;
+    /* border-radius: 20px; */
+    /* padding: 5px; */
+
+}
+ul{
+    display: inline;
+    margin: 20px 0 0 700px;
+}
+.profile{
+    margin: 100px 0 0 150px;
+    border-radius: 25px;
+    box-shadow: 3px 3px 2px wheat;
+}
+.bodyText{
+    margin: 10px 0 0 200px;
+}
+.bodyRightText{
+    background-color: gainsboro;
+    width: 830px;
+    height: 400px;
+    margin: -350px 0 0 530px;
+    /* padding: 15px; */
+    border-radius: 20px;
+}
+.innerBRT_1{
+    width: 250px;
+    height: 150px;
+    background-color: cyan;
+    text-align: center;
+    padding: 10px 0 0 0;
+    border-radius: 30px 5px 30px 5px;
+    display: inline-block;
+    margin: 10px;
+    color: black;
+    cursor: pointer;
+}
+.innerBRT_2{
+    width: 250px;
+    height: 150px;
+    background-color: greenyellow;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 30px 5px 30px 5px;
+    display: inline-block;
+    margin: 10px;
+    color: black;
+    cursor: pointer;
+}
+.innerBRT_3{
+    width: 250px;
+    height: 150px;
+    background-color: red;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 30px 5px 30px 5px;
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer;
+}
+.innerBRT_4{
+    width: 250px;
+    height: 150px;
+    background-color: royalblue;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 30px 5px 30px 5px;
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer;
+}
+.innerBRT_5{
+    width: 250px;
+    height: 150px;
+    background-color: pink;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 30px 5px 30px 5px;
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer;
+}
+.innerBRT_6{
+    width: 250px;
+    height: 150px;
+    background-color: burlywood;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 30px 5px 30px 5px;
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer;
+}
+.innerBRT_1:hover,.innerBRT_2:hover,.innerBRT_3:hover,.innerBRT_4:hover,.innerBRT_5:hover,.innerBRT_6:hover{
+    color: red;
+    background-color: whitesmoke;
+    
+}
